@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "46140288311",
+    "project_id": "simplesocialmedia-340a2",
+    "storage_bucket": "simplesocialmedia-340a2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46140288311:android:606277b03b5c75a1e33eb2",
+        "android_client_info": {
+          "package_name": "com.baris.simplesocialmedia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcM3do1exc2MBBlxq3bRKih8Cf18t1nLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
